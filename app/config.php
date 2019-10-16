@@ -8,5 +8,5 @@ return [
     'baza' => 'tanatos_edunovapp19',
     'korisnik' => 'tanatos_edunova',
     'lozinka' => 'Tanatos90835'
-    ],
+    ]
 ];
